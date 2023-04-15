@@ -1,0 +1,30 @@
+.card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    width: 32rem;
+    background-color: var(--color-white);
+    padding: var(--spacing-small);
+    box-shadow: rgba(0, 0, 0, 0.24) 0 .3rem .8rem;
+
+    border-radius: 1rem;
+
+    text-align: center;
+
+    &__image{
+        display: block;
+        max-width: 100%;
+        border-radius: 1rem;
+    }
+
+    &__heading{
+        margin-top: var(--spacing-large);
+        margin-bottom: var(--spacing-large);
+    }
+
+    &__body-copy{
+        margin-bottom: var(--spacing-large);
+    }
+}
