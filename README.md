@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution [https://qr-component-sriveer.netlify.app/](https://qr-component-sriveer.netlify.app/)
+# Frontend Mentor - QR code component solution
 
 ## Live Site URL: [https://qr-component-sriveer.netlify.app/](https://qr-component-sriveer.netlify.app/)
 ## Website: [https://veeru-portfolio.netlify.app/](https://veeru-portfolio.netlify.app/)
