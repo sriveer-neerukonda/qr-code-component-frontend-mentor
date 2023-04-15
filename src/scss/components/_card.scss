@@ -4,9 +4,9 @@
     left: 50%;
     transform: translate(-50%,-50%);
 
-    width: 32rem;
+    width: 29rem;
     background-color: var(--color-white);
-    padding: var(--spacing-small);
+    padding: var(--spacing-default);
     box-shadow: rgba(0, 0, 0, 0.24) 0 .3rem .8rem;
 
     border-radius: 1rem;
@@ -20,11 +20,11 @@
     }
 
     &__heading{
-        margin-top: var(--spacing-large);
-        margin-bottom: var(--spacing-large);
+        margin-top: var(--spacing-default);
+        margin-bottom: var(--spacing-default);
     }
 
     &__body-copy{
-        margin-bottom: var(--spacing-large);
+        margin-bottom: var(--spacing-default);
     }
 }
